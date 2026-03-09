@@ -7,6 +7,7 @@
         <groupId>com.vishbh</groupId>
         <artifactId>com.vishbh.project</artifactId>
         <version>1.0.0-SNAPSHOT</version>
+        <relativePath>../com.vishbh.project</relativePath>
     </parent>
 
     <artifactId>com.vishbh.pojos</artifactId>
